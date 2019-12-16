@@ -1,0 +1,4 @@
+package JavaFoundation
+
+class BlockingQueueTest {
+}
